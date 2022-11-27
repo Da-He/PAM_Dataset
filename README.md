@@ -4,7 +4,7 @@ Jiasheng Zhou, Da He, Xiaoyu Shang, Zhendong Guo, Sung-Liang Chen, Jiajia Luo \
 [Paper link](https://www.sciencedirect.com/science/article/pii/S2213597921000045)
  - - -
 ### Citation:
-If you find this dataset is helpful, please kindly cite the following :D
+If you find this dataset helpful, please kindly cite the following :D
 
 @article{zhou2021photoacoustic, \
   title={Photoacoustic microscopy with sparse data by convolutional neural networks}, \
